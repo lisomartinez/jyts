@@ -1,0 +1,303 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+    "movie_count": 5,
+    "limit": 20,
+    "page_number": 1,
+    "movies": [
+      {
+        "id": 1899,
+        "url": "https://yts.lt/movie/live-free-or-die-hard-2007",
+        "imdb_code": "tt0337978",
+        "title": "Live Free or Die Hard",
+        "title_english": "Live Free or Die Hard",
+        "title_long": "Live Free or Die Hard (2007)",
+        "slug": "live-free-or-die-hard-2007",
+        "year": 2007,
+        "rating": 7.1,
+        "runtime": 128,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Crime",
+          "Thriller"
+        ],
+        "summary": "When someone hacks into the computers at the FBI's Cyber Crime Division; the Director decides to round up all the hackers who could have done this. When he's told that because it's the 4th of July most of their agents are not around so they might have trouble getting people to get the hackers. So he instructs them to get local PD'S to take care of it. And one of the cops they ask is John McClane who is tasked with bringing a hacker named Farrell to the FBI. But as soon as he gets there someone starts shooting at them. McClane manages to get them out but they're still being pursued. And it's just when McClane arrives in Washington that the whole system breaks down and chaos ensues.",
+        "description_full": "When someone hacks into the computers at the FBI's Cyber Crime Division; the Director decides to round up all the hackers who could have done this. When he's told that because it's the 4th of July most of their agents are not around so they might have trouble getting people to get the hackers. So he instructs them to get local PD'S to take care of it. And one of the cops they ask is John McClane who is tasked with bringing a hacker named Farrell to the FBI. But as soon as he gets there someone starts shooting at them. McClane manages to get them out but they're still being pursued. And it's just when McClane arrives in Washington that the whole system breaks down and chaos ensues.",
+        "synopsis": "When someone hacks into the computers at the FBI's Cyber Crime Division; the Director decides to round up all the hackers who could have done this. When he's told that because it's the 4th of July most of their agents are not around so they might have trouble getting people to get the hackers. So he instructs them to get local PD'S to take care of it. And one of the cops they ask is John McClane who is tasked with bringing a hacker named Farrell to the FBI. But as soon as he gets there someone starts shooting at them. McClane manages to get them out but they're still being pursued. And it's just when McClane arrives in Washington that the whole system breaks down and chaos ensues.",
+        "yt_trailer_code": "86ss__OIscQ",
+        "language": "English",
+        "mpa_rating": "PG-13",
+        "background_image": "https://yts.lt/assets/images/movies/Die_Hard_4_Live_Free_or_Die_Hard_2007/background.jpg",
+        "background_image_original": "https://yts.lt/assets/images/movies/Die_Hard_4_Live_Free_or_Die_Hard_2007/background.jpg",
+        "small_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_4_Live_Free_or_Die_Hard_2007/small-cover.jpg",
+        "medium_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_4_Live_Free_or_Die_Hard_2007/medium-cover.jpg",
+        "large_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_4_Live_Free_or_Die_Hard_2007/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+          {
+            "url": "https://yts.lt/torrent/download/6F29CA25E95712FFE7AFB42D95469F2A5142FFB8",
+            "hash": "6F29CA25E95712FFE7AFB42D95469F2A5142FFB8",
+            "quality": "720p",
+            "type": "bluray",
+            "seeds": 76,
+            "peers": 18,
+            "size": "924.11 MB",
+            "size_bytes": 968999567,
+            "date_uploaded": "2015-11-01 00:49:47",
+            "date_uploaded_unix": 1446335387
+          },
+          {
+            "url": "https://yts.lt/torrent/download/903E52E5723E983EA67A4249A5D15D6D3D1FD053",
+            "hash": "903E52E5723E983EA67A4249A5D15D6D3D1FD053",
+            "quality": "1080p",
+            "type": "bluray",
+            "seeds": 41,
+            "peers": 17,
+            "size": "1.80 GB",
+            "size_bytes": 1932735283,
+            "date_uploaded": "2015-11-01 00:49:50",
+            "date_uploaded_unix": 1446335390
+          }
+        ],
+        "date_uploaded": "2015-11-01 00:49:47",
+        "date_uploaded_unix": 1446335387
+      },
+      {
+        "id": 922,
+        "url": "https://yts.lt/movie/die-hard-with-a-vengeance-1995",
+        "imdb_code": "tt0112864",
+        "title": "Die Hard with a Vengeance",
+        "title_english": "Die Hard with a Vengeance",
+        "title_long": "Die Hard with a Vengeance (1995)",
+        "slug": "die-hard-with-a-vengeance-1995",
+        "year": 1995,
+        "rating": 7.6,
+        "runtime": 128,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Thriller"
+        ],
+        "summary": "John McClane is now almost a full-blown alcoholic and is suspended from the NYPD. But when a bomb goes off in the Bonwit Teller Department Store the police go insane trying to figure out what's going on. Soon, a man named Simon calls and asks for McClane. Simon tells Inspector Walter Cobb that McClane is going to play a game called \"Simon Says\". He says that McClane is going to do the tasks he assigns him. If not, he'll set off another bomb. With the help of a Harlem electrician, John McClane must race all over New York trying to figure out the frustrating puzzles that the crafty terrorist gives him. But when a bomb goes off in a subway station right by the Federal Reserve (the biggest gold storage in the world) things start to get heated.",
+        "description_full": "John McClane is now almost a full-blown alcoholic and is suspended from the NYPD. But when a bomb goes off in the Bonwit Teller Department Store the police go insane trying to figure out what's going on. Soon, a man named Simon calls and asks for McClane. Simon tells Inspector Walter Cobb that McClane is going to play a game called \"Simon Says\". He says that McClane is going to do the tasks he assigns him. If not, he'll set off another bomb. With the help of a Harlem electrician, John McClane must race all over New York trying to figure out the frustrating puzzles that the crafty terrorist gives him. But when a bomb goes off in a subway station right by the Federal Reserve (the biggest gold storage in the world) things start to get heated.",
+        "synopsis": "John McClane is now almost a full-blown alcoholic and is suspended from the NYPD. But when a bomb goes off in the Bonwit Teller Department Store the police go insane trying to figure out what's going on. Soon, a man named Simon calls and asks for McClane. Simon tells Inspector Walter Cobb that McClane is going to play a game called \"Simon Says\". He says that McClane is going to do the tasks he assigns him. If not, he'll set off another bomb. With the help of a Harlem electrician, John McClane must race all over New York trying to figure out the frustrating puzzles that the crafty terrorist gives him. But when a bomb goes off in a subway station right by the Federal Reserve (the biggest gold storage in the world) things start to get heated.",
+        "yt_trailer_code": "gQ0uSh2Hgcs",
+        "language": "English",
+        "mpa_rating": "R",
+        "background_image": "https://yts.lt/assets/images/movies/Die_Hard_3_With_a_Vengeance_1995/background.jpg",
+        "background_image_original": "https://yts.lt/assets/images/movies/Die_Hard_3_With_a_Vengeance_1995/background.jpg",
+        "small_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_3_With_a_Vengeance_1995/small-cover.jpg",
+        "medium_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_3_With_a_Vengeance_1995/medium-cover.jpg",
+        "large_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_3_With_a_Vengeance_1995/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+          {
+            "url": "https://yts.lt/torrent/download/4785ADC0E8C724DF5C1F4811057773FBAFCE2F3A",
+            "hash": "4785ADC0E8C724DF5C1F4811057773FBAFCE2F3A",
+            "quality": "720p",
+            "type": "bluray",
+            "seeds": 42,
+            "peers": 17,
+            "size": "916.27 MB",
+            "size_bytes": 960778732,
+            "date_uploaded": "2015-10-31 22:58:17",
+            "date_uploaded_unix": 1446328697
+          },
+          {
+            "url": "https://yts.lt/torrent/download/F0C6405A7D090FDF7898522B097AF2FA41AE2C75",
+            "hash": "F0C6405A7D090FDF7898522B097AF2FA41AE2C75",
+            "quality": "1080p",
+            "type": "bluray",
+            "seeds": 12,
+            "peers": 5,
+            "size": "1.80 GB",
+            "size_bytes": 1932735283,
+            "date_uploaded": "2015-10-31 22:58:20",
+            "date_uploaded_unix": 1446328700
+          }
+        ],
+        "date_uploaded": "2015-10-31 22:58:17",
+        "date_uploaded_unix": 1446328697
+      },
+      {
+        "id": 921,
+        "url": "https://yts.lt/movie/die-hard-2-1990",
+        "imdb_code": "tt0099423",
+        "title": "Die Hard 2",
+        "title_english": "Die Hard 2",
+        "title_long": "Die Hard 2 (1990)",
+        "slug": "die-hard-2-1990",
+        "year": 1990,
+        "rating": 7.2,
+        "runtime": 124,
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime",
+          "Thriller"
+        ],
+        "summary": "After the terrifying events in LA, John McClane (Willis) is about to go through it all again. A team of terrorists, led by Col. Stuart (Sadler) is holding the entire airport hostage. The terrorists are planning to rescue a drug lord from justice. In order to do so, they have seized control of all electrical equipment affecting all planes. With no runway lights available, all aircraft have to remain in the air, with fuel running low, McClane will need to be fast.",
+        "description_full": "After the terrifying events in LA, John McClane (Willis) is about to go through it all again. A team of terrorists, led by Col. Stuart (Sadler) is holding the entire airport hostage. The terrorists are planning to rescue a drug lord from justice. In order to do so, they have seized control of all electrical equipment affecting all planes. With no runway lights available, all aircraft have to remain in the air, with fuel running low, McClane will need to be fast.",
+        "synopsis": "After the terrifying events in LA, John McClane (Willis) is about to go through it all again. A team of terrorists, led by Col. Stuart (Sadler) is holding the entire airport hostage. The terrorists are planning to rescue a drug lord from justice. In order to do so, they have seized control of all electrical equipment affecting all planes. With no runway lights available, all aircraft have to remain in the air, with fuel running low, McClane will need to be fast.",
+        "yt_trailer_code": "OyxfXQ4MGLQ",
+        "language": "English",
+        "mpa_rating": "",
+        "background_image": "https://yts.lt/assets/images/movies/Die_Hard_2_Die_Harder_1990/background.jpg",
+        "background_image_original": "https://yts.lt/assets/images/movies/Die_Hard_2_Die_Harder_1990/background.jpg",
+        "small_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_2_Die_Harder_1990/small-cover.jpg",
+        "medium_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_2_Die_Harder_1990/medium-cover.jpg",
+        "large_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_2_Die_Harder_1990/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+          {
+            "url": "https://yts.lt/torrent/download/365C7D5CFD1C980AC75C40A10988984B7F5BEE96",
+            "hash": "365C7D5CFD1C980AC75C40A10988984B7F5BEE96",
+            "quality": "720p",
+            "type": "bluray",
+            "seeds": 40,
+            "peers": 12,
+            "size": "859.53 MB",
+            "size_bytes": 901282529,
+            "date_uploaded": "2015-10-31 22:58:13",
+            "date_uploaded_unix": 1446328693
+          },
+          {
+            "url": "https://yts.lt/torrent/download/446BD563A35D6C63BDA7CFE446B7C8E1CF20710C",
+            "hash": "446BD563A35D6C63BDA7CFE446B7C8E1CF20710C",
+            "quality": "1080p",
+            "type": "bluray",
+            "seeds": 50,
+            "peers": 16,
+            "size": "1.80 GB",
+            "size_bytes": 1932735283,
+            "date_uploaded": "2015-10-31 22:58:14",
+            "date_uploaded_unix": 1446328694
+          }
+        ],
+        "date_uploaded": "2015-10-31 22:58:13",
+        "date_uploaded_unix": 1446328693
+      },
+      {
+        "id": 920,
+        "url": "https://yts.lt/movie/die-hard-1988",
+        "imdb_code": "tt0095016",
+        "title": "Die Hard",
+        "title_english": "Die Hard",
+        "title_long": "Die Hard (1988)",
+        "slug": "die-hard-1988",
+        "year": 1988,
+        "rating": 8.2,
+        "runtime": 132,
+        "genres": [
+          "Action",
+          "Thriller"
+        ],
+        "summary": "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.",
+        "description_full": "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.",
+        "synopsis": "NYPD cop John McClane goes on a Christmas vacation to visit his wife Holly in Los Angeles where she works for the Nakatomi Corporation. While they are at the Nakatomi headquarters for a Christmas party, a group of robbers led by Hans Gruber take control of the building and hold everyone hostage, with the exception of John, while they plan to perform a lucrative heist. Unable to escape and with no immediate police response, John is forced to take matters into his own hands.",
+        "yt_trailer_code": "2TQ-pOvI6Xo",
+        "language": "English",
+        "mpa_rating": "",
+        "background_image": "https://yts.lt/assets/images/movies/Die_Hard_1988/background.jpg",
+        "background_image_original": "https://yts.lt/assets/images/movies/Die_Hard_1988/background.jpg",
+        "small_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_1988/small-cover.jpg",
+        "medium_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_1988/medium-cover.jpg",
+        "large_cover_image": "https://yts.lt/assets/images/movies/Die_Hard_1988/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+          {
+            "url": "https://yts.lt/torrent/download/53D574E4EFF968C56D0B6865904F4A69D69D87FA",
+            "hash": "53D574E4EFF968C56D0B6865904F4A69D69D87FA",
+            "quality": "720p",
+            "type": "bluray",
+            "seeds": 60,
+            "peers": 25,
+            "size": "906.33 MB",
+            "size_bytes": 950355886,
+            "date_uploaded": "2015-10-31 22:58:05",
+            "date_uploaded_unix": 1446328685
+          },
+          {
+            "url": "https://yts.lt/torrent/download/E3CF59CE8C293B43DCC5E6FA183D3D4DC4B60AC7",
+            "hash": "E3CF59CE8C293B43DCC5E6FA183D3D4DC4B60AC7",
+            "quality": "1080p",
+            "type": "bluray",
+            "seeds": 18,
+            "peers": 4,
+            "size": "1.80 GB",
+            "size_bytes": 1932735283,
+            "date_uploaded": "2015-10-31 22:58:08",
+            "date_uploaded_unix": 1446328688
+          }
+        ],
+        "date_uploaded": "2015-10-31 22:58:05",
+        "date_uploaded_unix": 1446328685
+      },
+      {
+        "id": 87,
+        "url": "https://yts.lt/movie/a-good-day-to-die-hard-2013",
+        "imdb_code": "tt1606378",
+        "title": "A Good Day to Die Hard",
+        "title_english": "A Good Day to Die Hard",
+        "title_long": "A Good Day to Die Hard (2013)",
+        "slug": "a-good-day-to-die-hard-2013",
+        "year": 2013,
+        "rating": 5.3,
+        "runtime": 98,
+        "genres": [
+          "Action",
+          "Crime",
+          "Thriller"
+        ],
+        "summary": "Iconoclastic, take-no-prisoners cop John McClane, for the first time, finds himself on foreign soil after traveling to Moscow to help his wayward son Jack - unaware that Jack is really a highly-trained CIA operative out to stop a nuclear weapons heist. With the Russian underworld in pursuit, and battling a countdown to war, the two McClanes discover that their opposing methods make them unstoppable heroes.",
+        "description_full": "Iconoclastic, take-no-prisoners cop John McClane, for the first time, finds himself on foreign soil after traveling to Moscow to help his wayward son Jack - unaware that Jack is really a highly-trained CIA operative out to stop a nuclear weapons heist. With the Russian underworld in pursuit, and battling a countdown to war, the two McClanes discover that their opposing methods make them unstoppable heroes.",
+        "synopsis": "Iconoclastic, take-no-prisoners cop John McClane, for the first time, finds himself on foreign soil after traveling to Moscow to help his wayward son Jack - unaware that Jack is really a highly-trained CIA operative out to stop a nuclear weapons heist. With the Russian underworld in pursuit, and battling a countdown to war, the two McClanes discover that their opposing methods make them unstoppable heroes.",
+        "yt_trailer_code": "eLu3z4Ikwes",
+        "language": "English",
+        "mpa_rating": "R",
+        "background_image": "https://yts.lt/assets/images/movies/A_Good_Day_to_Die_Hard_2013_EXTENDED/background.jpg",
+        "background_image_original": "https://yts.lt/assets/images/movies/A_Good_Day_to_Die_Hard_2013_EXTENDED/background.jpg",
+        "small_cover_image": "https://yts.lt/assets/images/movies/A_Good_Day_to_Die_Hard_2013_EXTENDED/small-cover.jpg",
+        "medium_cover_image": "https://yts.lt/assets/images/movies/A_Good_Day_to_Die_Hard_2013_EXTENDED/medium-cover.jpg",
+        "large_cover_image": "https://yts.lt/assets/images/movies/A_Good_Day_to_Die_Hard_2013_EXTENDED/large-cover.jpg",
+        "state": "ok",
+        "torrents": [
+          {
+            "url": "https://yts.lt/torrent/download/38D74DB2DFC8911158763799F2911689D1CA1DB5",
+            "hash": "38D74DB2DFC8911158763799F2911689D1CA1DB5",
+            "quality": "720p",
+            "type": "bluray",
+            "seeds": 52,
+            "peers": 18,
+            "size": "806.30 MB",
+            "size_bytes": 845466829,
+            "date_uploaded": "2015-10-31 20:58:28",
+            "date_uploaded_unix": 1446321508
+          },
+          {
+            "url": "https://yts.lt/torrent/download/E65FA726F06082ADBA2378D42515003C2B85E6C0",
+            "hash": "E65FA726F06082ADBA2378D42515003C2B85E6C0",
+            "quality": "1080p",
+            "type": "bluray",
+            "seeds": 3,
+            "peers": 2,
+            "size": "1.64 GB",
+            "size_bytes": 1760936591,
+            "date_uploaded": "2015-10-31 20:58:31",
+            "date_uploaded_unix": 1446321511
+          }
+        ],
+        "date_uploaded": "2015-10-31 20:58:28",
+        "date_uploaded_unix": 1446321508
+      }
+    ]
+  },
+  "@meta": {
+    "server_time": 1572789327,
+    "server_timezone": "CET",
+    "api_version": 2,
+    "execution_time": "0.01 ms"
+  }
+}

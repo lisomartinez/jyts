@@ -1,0 +1,70 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data": {
+    "movie": {
+      "id": 14109,
+      "url": "https://yts.lt/movie/the-peanut-butter-falcon-2019",
+      "imdb_code": "tt4364194",
+      "title": "The Peanut Butter Falcon",
+      "title_english": "The Peanut Butter Falcon",
+      "title_long": "The Peanut Butter Falcon (2019)",
+      "slug": "the-peanut-butter-falcon-2019",
+      "year": 2019,
+      "rating": 8,
+      "runtime": 97,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Sport"
+      ],
+      "download_count": 202,
+      "like_count": 0,
+      "description_intro": "The Peanut Butter Falcon is an adventure story set in the world of a modern Mark Twain that begins when Zak (22), a young man with Down syndrome, runs away from the nursing home where he lives to chase his dream of becoming a professional wrestler by attending the wrestling school The Salt Water Redneck. Through circumstances beyond their control Tyler (32), a small-time outlaw on the run, becomes Zak's unlikely coach and ally. Together they wind through deltas, elude capture, drink whisky, find God, catch fish, and convince Eleanor (28), a kind nursing home employee with a story of her own, to join them on their journey.",
+      "description_full": "The Peanut Butter Falcon is an adventure story set in the world of a modern Mark Twain that begins when Zak (22), a young man with Down syndrome, runs away from the nursing home where he lives to chase his dream of becoming a professional wrestler by attending the wrestling school The Salt Water Redneck. Through circumstances beyond their control Tyler (32), a small-time outlaw on the run, becomes Zak's unlikely coach and ally. Together they wind through deltas, elude capture, drink whisky, find God, catch fish, and convince Eleanor (28), a kind nursing home employee with a story of her own, to join them on their journey.",
+      "yt_trailer_code": "UNl9RqjLCwc",
+      "language": "English",
+      "mpa_rating": "",
+      "background_image": "https://yts.lt/assets/images/movies/the_peanut_butter_falcon_2019/background.jpg",
+      "background_image_original": "https://yts.lt/assets/images/movies/the_peanut_butter_falcon_2019/background.jpg",
+      "small_cover_image": "https://yts.lt/assets/images/movies/the_peanut_butter_falcon_2019/small-cover.jpg",
+      "medium_cover_image": "https://yts.lt/assets/images/movies/the_peanut_butter_falcon_2019/medium-cover.jpg",
+      "large_cover_image": "https://yts.lt/assets/images/movies/the_peanut_butter_falcon_2019/large-cover.jpg",
+      "torrents": [
+        {
+          "url": "https://yts.lt/torrent/download/14D3F5F8A7C42CB322C450EF6A7E2436922E2D03",
+          "hash": "14D3F5F8A7C42CB322C450EF6A7E2436922E2D03",
+          "quality": "720p",
+          "type": "bluray",
+          "seeds": 261,
+          "peers": 508,
+          "size": "860.36 MB",
+          "size_bytes": 902152847,
+          "date_uploaded": "2019-11-01 18:39:59",
+          "date_uploaded_unix": 1572629999
+        },
+        {
+          "url": "https://yts.lt/torrent/download/CE829F2B1EB44D6DC7F34E818788DBD9DD1D82CA",
+          "hash": "CE829F2B1EB44D6DC7F34E818788DBD9DD1D82CA",
+          "quality": "1080p",
+          "type": "bluray",
+          "seeds": 0,
+          "peers": 0,
+          "size": "1.52 GB",
+          "size_bytes": 1632087572,
+          "date_uploaded": "2019-11-01 20:05:40",
+          "date_uploaded_unix": 1572635140
+        }
+      ],
+      "date_uploaded": "2019-11-01 18:39:59",
+      "date_uploaded_unix": 1572629999
+    }
+  },
+  "@meta": {
+    "server_time": 1572645291,
+    "server_timezone": "CET",
+    "api_version": 2,
+    "execution_time": "0 ms"
+  }
+}
